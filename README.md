@@ -1,12 +1,5 @@
-# analysis_NumberProgressBar
+# ProgressLine
 ---
-this repository is analysis of NumberProgressBar from [daimajia](https://github.com/daimajia)
----
-There are some other platform's NumberProgressBar:
-
-- [Web-Front](https://github.com/kalasoo/NumberProgressBar) by [kalasoo](https://github.com/kalasoo/NumberProgressBar)
-- [IOS](https://github.com/Ming-Zhe/NumberProgressBar) by [Ming-Zhe](https://github.com/Ming-Zhe/NumberProgressBar)
-- [Windows Phone](https://github.com/s2003zy/NumberProgressBar) by [s2003zy](https://github.com/s2003zy/NumberProgressBar)
 
 ---
 ###Demo
